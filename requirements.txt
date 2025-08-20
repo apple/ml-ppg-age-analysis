@@ -1,0 +1,15 @@
+pandas
+numpy
+statsmodels
+joblib
+matplotlib
+seaborn
+scipy
+scikit-learn
+ipython
+jinja2
+lifelines
+torch
+torchvision
+torchaudio
+torchmetrics
